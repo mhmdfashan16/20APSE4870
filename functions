@@ -1,0 +1,10 @@
+fun main() {
+    var num1 = qube(5);
+    print()
+    println(qube(4));
+}
+
+fun qube:Int(Int){
+    var num =3;
+    return num*num*num;
+}
